@@ -9,8 +9,7 @@ export class FooterComponent implements OnInit {
 
   constructor() { }
 
-  public phone = "+51936104581"
-  public title = "Hola deseo informacion de los productos de vitanell";
+
 
   ngOnInit(): void {
   }

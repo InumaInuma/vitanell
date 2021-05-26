@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+
+  public phone = "+51936104581"
+  public titlee = "Hola deseo informacion de los productos de vitanell";
   title = 'vitanell';
 }
